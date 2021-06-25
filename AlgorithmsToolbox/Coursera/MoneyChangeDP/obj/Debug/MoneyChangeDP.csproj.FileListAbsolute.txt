@@ -1,0 +1,5 @@
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Algorithms toolbox\Code\Coursera\MoneyChangeDP\bin\Debug\MoneyChangeDP.exe.config
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Algorithms toolbox\Code\Coursera\MoneyChangeDP\bin\Debug\MoneyChangeDP.exe
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Algorithms toolbox\Code\Coursera\MoneyChangeDP\bin\Debug\MoneyChangeDP.pdb
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Algorithms toolbox\Code\Coursera\MoneyChangeDP\obj\Debug\MoneyChangeDP.exe
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Algorithms toolbox\Code\Coursera\MoneyChangeDP\obj\Debug\MoneyChangeDP.pdb

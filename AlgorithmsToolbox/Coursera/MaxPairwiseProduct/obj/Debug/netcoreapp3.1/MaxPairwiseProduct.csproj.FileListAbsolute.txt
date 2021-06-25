@@ -1,0 +1,11 @@
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Algorithms toolbox\Code\Coursera\MaxPairwiseProduct\bin\Debug\netcoreapp3.1\MaxPairwiseProduct.exe
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Algorithms toolbox\Code\Coursera\MaxPairwiseProduct\bin\Debug\netcoreapp3.1\MaxPairwiseProduct.deps.json
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Algorithms toolbox\Code\Coursera\MaxPairwiseProduct\bin\Debug\netcoreapp3.1\MaxPairwiseProduct.runtimeconfig.json
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Algorithms toolbox\Code\Coursera\MaxPairwiseProduct\bin\Debug\netcoreapp3.1\MaxPairwiseProduct.runtimeconfig.dev.json
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Algorithms toolbox\Code\Coursera\MaxPairwiseProduct\bin\Debug\netcoreapp3.1\MaxPairwiseProduct.dll
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Algorithms toolbox\Code\Coursera\MaxPairwiseProduct\bin\Debug\netcoreapp3.1\MaxPairwiseProduct.pdb
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Algorithms toolbox\Code\Coursera\MaxPairwiseProduct\obj\Debug\netcoreapp3.1\MaxPairwiseProduct.csprojAssemblyReference.cache
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Algorithms toolbox\Code\Coursera\MaxPairwiseProduct\obj\Debug\netcoreapp3.1\MaxPairwiseProduct.AssemblyInfoInputs.cache
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Algorithms toolbox\Code\Coursera\MaxPairwiseProduct\obj\Debug\netcoreapp3.1\MaxPairwiseProduct.AssemblyInfo.cs
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Algorithms toolbox\Code\Coursera\MaxPairwiseProduct\obj\Debug\netcoreapp3.1\MaxPairwiseProduct.dll
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Algorithms toolbox\Code\Coursera\MaxPairwiseProduct\obj\Debug\netcoreapp3.1\MaxPairwiseProduct.pdb

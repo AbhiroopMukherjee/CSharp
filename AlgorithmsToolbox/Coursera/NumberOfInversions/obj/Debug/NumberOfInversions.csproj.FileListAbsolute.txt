@@ -1,0 +1,6 @@
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Algorithms toolbox\Code\Coursera\NumberOfInversions\bin\Debug\NumberOfInversions.exe.config
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Algorithms toolbox\Code\Coursera\NumberOfInversions\bin\Debug\NumberOfInversions.exe
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Algorithms toolbox\Code\Coursera\NumberOfInversions\bin\Debug\NumberOfInversions.pdb
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Algorithms toolbox\Code\Coursera\NumberOfInversions\obj\Debug\NumberOfInversions.exe
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Algorithms toolbox\Code\Coursera\NumberOfInversions\obj\Debug\NumberOfInversions.pdb
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Algorithms toolbox\Code\Coursera\NumberOfInversions\obj\Debug\NumberOfInversions.csprojAssemblyReference.cache

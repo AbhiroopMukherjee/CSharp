@@ -1,0 +1,11 @@
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Algorithms toolbox\Code\Coursera\Coursera\bin\Debug\netcoreapp3.1\Coursera.exe
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Algorithms toolbox\Code\Coursera\Coursera\bin\Debug\netcoreapp3.1\Coursera.deps.json
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Algorithms toolbox\Code\Coursera\Coursera\bin\Debug\netcoreapp3.1\Coursera.runtimeconfig.json
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Algorithms toolbox\Code\Coursera\Coursera\bin\Debug\netcoreapp3.1\Coursera.runtimeconfig.dev.json
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Algorithms toolbox\Code\Coursera\Coursera\bin\Debug\netcoreapp3.1\Coursera.dll
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Algorithms toolbox\Code\Coursera\Coursera\bin\Debug\netcoreapp3.1\Coursera.pdb
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Algorithms toolbox\Code\Coursera\Coursera\obj\Debug\netcoreapp3.1\Coursera.csprojAssemblyReference.cache
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Algorithms toolbox\Code\Coursera\Coursera\obj\Debug\netcoreapp3.1\Coursera.AssemblyInfoInputs.cache
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Algorithms toolbox\Code\Coursera\Coursera\obj\Debug\netcoreapp3.1\Coursera.AssemblyInfo.cs
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Algorithms toolbox\Code\Coursera\Coursera\obj\Debug\netcoreapp3.1\Coursera.dll
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Algorithms toolbox\Code\Coursera\Coursera\obj\Debug\netcoreapp3.1\Coursera.pdb

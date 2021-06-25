@@ -1,0 +1,6 @@
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Algorithms toolbox\Code\Coursera\PrimitiveCalculator\bin\Debug\PrimitiveCalculator.exe.config
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Algorithms toolbox\Code\Coursera\PrimitiveCalculator\bin\Debug\PrimitiveCalculator.exe
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Algorithms toolbox\Code\Coursera\PrimitiveCalculator\bin\Debug\PrimitiveCalculator.pdb
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Algorithms toolbox\Code\Coursera\PrimitiveCalculator\obj\Debug\PrimitiveCalculator.csprojAssemblyReference.cache
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Algorithms toolbox\Code\Coursera\PrimitiveCalculator\obj\Debug\PrimitiveCalculator.exe
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Algorithms toolbox\Code\Coursera\PrimitiveCalculator\obj\Debug\PrimitiveCalculator.pdb

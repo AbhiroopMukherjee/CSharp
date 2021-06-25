@@ -1,0 +1,6 @@
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Algorithms toolbox\Code\Coursera\MaxAmtOfGold\bin\Debug\MaxAmtOfGold.exe.config
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Algorithms toolbox\Code\Coursera\MaxAmtOfGold\bin\Debug\MaxAmtOfGold.exe
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Algorithms toolbox\Code\Coursera\MaxAmtOfGold\bin\Debug\MaxAmtOfGold.pdb
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Algorithms toolbox\Code\Coursera\MaxAmtOfGold\obj\Debug\MaxAmtOfGold.csprojAssemblyReference.cache
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Algorithms toolbox\Code\Coursera\MaxAmtOfGold\obj\Debug\MaxAmtOfGold.exe
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Algorithms toolbox\Code\Coursera\MaxAmtOfGold\obj\Debug\MaxAmtOfGold.pdb

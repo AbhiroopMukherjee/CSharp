@@ -1,0 +1,6 @@
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Algorithms toolbox\Code\Coursera\MaxValueLoot\bin\Debug\MaxValueLoot.exe.config
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Algorithms toolbox\Code\Coursera\MaxValueLoot\bin\Debug\MaxValueLoot.exe
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Algorithms toolbox\Code\Coursera\MaxValueLoot\bin\Debug\MaxValueLoot.pdb
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Algorithms toolbox\Code\Coursera\MaxValueLoot\obj\Debug\MaxValueLoot.csprojAssemblyReference.cache
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Algorithms toolbox\Code\Coursera\MaxValueLoot\obj\Debug\MaxValueLoot.exe
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Algorithms toolbox\Code\Coursera\MaxValueLoot\obj\Debug\MaxValueLoot.pdb

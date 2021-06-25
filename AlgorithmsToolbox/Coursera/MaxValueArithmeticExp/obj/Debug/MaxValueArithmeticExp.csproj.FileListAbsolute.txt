@@ -1,0 +1,6 @@
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Algorithms toolbox\Code\Coursera\MaxValueArithmeticExp\bin\Debug\MaxValueArithmeticExp.exe.config
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Algorithms toolbox\Code\Coursera\MaxValueArithmeticExp\bin\Debug\MaxValueArithmeticExp.exe
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Algorithms toolbox\Code\Coursera\MaxValueArithmeticExp\bin\Debug\MaxValueArithmeticExp.pdb
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Algorithms toolbox\Code\Coursera\MaxValueArithmeticExp\obj\Debug\MaxValueArithmeticExp.exe
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Algorithms toolbox\Code\Coursera\MaxValueArithmeticExp\obj\Debug\MaxValueArithmeticExp.pdb
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Algorithms toolbox\Code\Coursera\MaxValueArithmeticExp\obj\Debug\MaxValueArithmeticExp.csprojAssemblyReference.cache
