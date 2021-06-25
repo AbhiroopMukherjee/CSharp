@@ -1,0 +1,6 @@
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Data Structures\Code_dataStructure\Brackets\MergingTables\bin\Debug\MergingTables.exe.config
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Data Structures\Code_dataStructure\Brackets\MergingTables\bin\Debug\MergingTables.exe
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Data Structures\Code_dataStructure\Brackets\MergingTables\bin\Debug\MergingTables.pdb
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Data Structures\Code_dataStructure\Brackets\MergingTables\obj\Debug\MergingTables.csprojAssemblyReference.cache
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Data Structures\Code_dataStructure\Brackets\MergingTables\obj\Debug\MergingTables.exe
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Data Structures\Code_dataStructure\Brackets\MergingTables\obj\Debug\MergingTables.pdb

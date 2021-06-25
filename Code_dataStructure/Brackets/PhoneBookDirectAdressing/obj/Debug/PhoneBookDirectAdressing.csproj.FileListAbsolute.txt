@@ -1,0 +1,6 @@
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Data Structures\Code_dataStructure\Brackets\PhoneBookDirectAdressing\obj\Debug\PhoneBookDirectAdressing.csprojAssemblyReference.cache
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Data Structures\Code_dataStructure\Brackets\PhoneBookDirectAdressing\bin\Debug\PhoneBookDirectAdressing.exe.config
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Data Structures\Code_dataStructure\Brackets\PhoneBookDirectAdressing\bin\Debug\PhoneBookDirectAdressing.exe
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Data Structures\Code_dataStructure\Brackets\PhoneBookDirectAdressing\bin\Debug\PhoneBookDirectAdressing.pdb
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Data Structures\Code_dataStructure\Brackets\PhoneBookDirectAdressing\obj\Debug\PhoneBookDirectAdressing.exe
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Data Structures\Code_dataStructure\Brackets\PhoneBookDirectAdressing\obj\Debug\PhoneBookDirectAdressing.pdb

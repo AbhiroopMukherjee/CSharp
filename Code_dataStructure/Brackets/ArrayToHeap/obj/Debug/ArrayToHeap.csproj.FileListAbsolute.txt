@@ -1,0 +1,6 @@
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Data Structures\Code_dataStructure\Brackets\ArrayToHeap\bin\Debug\ArrayToHeap.exe.config
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Data Structures\Code_dataStructure\Brackets\ArrayToHeap\bin\Debug\ArrayToHeap.exe
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Data Structures\Code_dataStructure\Brackets\ArrayToHeap\bin\Debug\ArrayToHeap.pdb
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Data Structures\Code_dataStructure\Brackets\ArrayToHeap\obj\Debug\ArrayToHeap.csprojAssemblyReference.cache
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Data Structures\Code_dataStructure\Brackets\ArrayToHeap\obj\Debug\ArrayToHeap.exe
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Data Structures\Code_dataStructure\Brackets\ArrayToHeap\obj\Debug\ArrayToHeap.pdb

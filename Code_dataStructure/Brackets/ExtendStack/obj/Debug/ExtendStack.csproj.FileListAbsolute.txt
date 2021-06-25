@@ -1,0 +1,6 @@
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Data Structures\Code_dataStructure\Brackets\ExtendStack\bin\Debug\ExtendStack.exe.config
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Data Structures\Code_dataStructure\Brackets\ExtendStack\bin\Debug\ExtendStack.exe
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Data Structures\Code_dataStructure\Brackets\ExtendStack\bin\Debug\ExtendStack.pdb
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Data Structures\Code_dataStructure\Brackets\ExtendStack\obj\Debug\ExtendStack.exe
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Data Structures\Code_dataStructure\Brackets\ExtendStack\obj\Debug\ExtendStack.pdb
+C:\Users\ABHMU\Desktop\My docs\studies\C#\Coursera\Data Structures\Code_dataStructure\Brackets\ExtendStack\obj\Debug\ExtendStack.csprojAssemblyReference.cache
