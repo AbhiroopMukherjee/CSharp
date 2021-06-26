@@ -1,0 +1,16 @@
+C:\Users\ABHMU\Desktop\My docs\studies\C#\prac1\ACM\Tests\ACM.BLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ABHMU\Desktop\My docs\studies\C#\prac1\ACM\Tests\ACM.BLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ABHMU\Desktop\My docs\studies\C#\prac1\ACM\Tests\ACM.BLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ABHMU\Desktop\My docs\studies\C#\prac1\ACM\Tests\ACM.BLTests\bin\Debug\ACM.BLTests.dll
+C:\Users\ABHMU\Desktop\My docs\studies\C#\prac1\ACM\Tests\ACM.BLTests\bin\Debug\ACM.BLTests.pdb
+C:\Users\ABHMU\Desktop\My docs\studies\C#\prac1\ACM\Tests\ACM.BLTests\bin\Debug\ACM.BL.dll
+C:\Users\ABHMU\Desktop\My docs\studies\C#\prac1\ACM\Tests\ACM.BLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ABHMU\Desktop\My docs\studies\C#\prac1\ACM\Tests\ACM.BLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ABHMU\Desktop\My docs\studies\C#\prac1\ACM\Tests\ACM.BLTests\bin\Debug\ACM.BL.pdb
+C:\Users\ABHMU\Desktop\My docs\studies\C#\prac1\ACM\Tests\ACM.BLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\ABHMU\Desktop\My docs\studies\C#\prac1\ACM\Tests\ACM.BLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ABHMU\Desktop\My docs\studies\C#\prac1\ACM\Tests\ACM.BLTests\obj\Debug\ACM.BLTests.csprojAssemblyReference.cache
+C:\Users\ABHMU\Desktop\My docs\studies\C#\prac1\ACM\Tests\ACM.BLTests\obj\Debug\ACM.BLTests.csproj.CoreCompileInputs.cache
+C:\Users\ABHMU\Desktop\My docs\studies\C#\prac1\ACM\Tests\ACM.BLTests\obj\Debug\ACM.BLTests.csproj.CopyComplete
+C:\Users\ABHMU\Desktop\My docs\studies\C#\prac1\ACM\Tests\ACM.BLTests\obj\Debug\ACM.BLTests.dll
+C:\Users\ABHMU\Desktop\My docs\studies\C#\prac1\ACM\Tests\ACM.BLTests\obj\Debug\ACM.BLTests.pdb

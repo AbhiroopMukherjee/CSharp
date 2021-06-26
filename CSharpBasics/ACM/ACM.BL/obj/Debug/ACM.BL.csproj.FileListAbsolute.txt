@@ -1,0 +1,9 @@
+C:\Users\ABHMU\Desktop\My docs\studies\C#\prac1\ACM\ACM.BL\bin\Debug\ACM.BL.dll
+C:\Users\ABHMU\Desktop\My docs\studies\C#\prac1\ACM\ACM.BL\bin\Debug\ACM.BL.pdb
+C:\Users\ABHMU\Desktop\My docs\studies\C#\prac1\ACM\ACM.BL\obj\Debug\ACM.BL.csprojAssemblyReference.cache
+C:\Users\ABHMU\Desktop\My docs\studies\C#\prac1\ACM\ACM.BL\obj\Debug\ACM.BL.csproj.CoreCompileInputs.cache
+C:\Users\ABHMU\Desktop\My docs\studies\C#\prac1\ACM\ACM.BL\obj\Debug\ACM.BL.dll
+C:\Users\ABHMU\Desktop\My docs\studies\C#\prac1\ACM\ACM.BL\obj\Debug\ACM.BL.pdb
+C:\Users\ABHMU\Desktop\My docs\studies\C#\prac1\ACM\ACM.BL\bin\Debug\Acme.Common.dll
+C:\Users\ABHMU\Desktop\My docs\studies\C#\prac1\ACM\ACM.BL\bin\Debug\Acme.Common.pdb
+C:\Users\ABHMU\Desktop\My docs\studies\C#\prac1\ACM\ACM.BL\obj\Debug\ACM.BL.csproj.CopyComplete
