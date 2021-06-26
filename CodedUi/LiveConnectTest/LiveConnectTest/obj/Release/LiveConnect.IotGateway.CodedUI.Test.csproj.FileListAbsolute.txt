@@ -1,0 +1,6 @@
+C:\Users\ANIRO\OneDrive - Danaher\Documents\Visual Studio 2017\Projects\LiveConnectTest\LiveConnectTest\bin\Release\LiveConnectTest.dll
+C:\Users\ANIRO\OneDrive - Danaher\Documents\Visual Studio 2017\Projects\LiveConnectTest\LiveConnectTest\bin\Release\LiveConnectTest.pdb
+C:\Users\ANIRO\OneDrive - Danaher\Documents\Visual Studio 2017\Projects\LiveConnectTest\LiveConnectTest\obj\Release\LiveConnect.IotGateway.CodedUI.Test.csprojAssemblyReference.cache
+C:\Users\ANIRO\OneDrive - Danaher\Documents\Visual Studio 2017\Projects\LiveConnectTest\LiveConnectTest\obj\Release\LiveConnect.IotGateway.CodedUI.Test.csproj.CoreCompileInputs.cache
+C:\Users\ANIRO\OneDrive - Danaher\Documents\Visual Studio 2017\Projects\LiveConnectTest\LiveConnectTest\obj\Release\LiveConnectTest.dll
+C:\Users\ANIRO\OneDrive - Danaher\Documents\Visual Studio 2017\Projects\LiveConnectTest\LiveConnectTest\obj\Release\LiveConnectTest.pdb

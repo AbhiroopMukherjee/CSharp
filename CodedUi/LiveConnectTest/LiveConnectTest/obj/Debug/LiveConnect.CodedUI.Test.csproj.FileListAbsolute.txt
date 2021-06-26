@@ -1,0 +1,6 @@
+C:\Users\ANIRO\Documents\Visual Studio 2017\Projects\LiveConnectTest\LiveConnectTest\bin\Debug\LiveConnectTest.dll
+C:\Users\ANIRO\Documents\Visual Studio 2017\Projects\LiveConnectTest\LiveConnectTest\bin\Debug\LiveConnectTest.pdb
+C:\Users\ANIRO\Documents\Visual Studio 2017\Projects\LiveConnectTest\LiveConnectTest\obj\Debug\LiveConnect.CodedUI.Test.csprojAssemblyReference.cache
+C:\Users\ANIRO\Documents\Visual Studio 2017\Projects\LiveConnectTest\LiveConnectTest\obj\Debug\LiveConnect.CodedUI.Test.csproj.CoreCompileInputs.cache
+C:\Users\ANIRO\Documents\Visual Studio 2017\Projects\LiveConnectTest\LiveConnectTest\obj\Debug\LiveConnectTest.dll
+C:\Users\ANIRO\Documents\Visual Studio 2017\Projects\LiveConnectTest\LiveConnectTest\obj\Debug\LiveConnectTest.pdb

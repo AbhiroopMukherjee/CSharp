@@ -1,0 +1,418 @@
+<?xml version="1.0"?>
+<UITest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="" Id="e9635d21-4c84-47d8-ba76-fdc70b2e1a06" AssemblyVersion="16.0.28315.86" Version="1.0" xmlns="http://schemas.microsoft.com/VisualStudio/TeamTest/UITest/2010">
+  <Configuration>
+    <Group Name="IE">
+      <Setting Name="Version" Value="9.11.17763.0" WarningLevel="1" />
+      <Setting Name="InformationBar" WarningLevel="1" />
+      <Setting Name="AutoCompletePassword" WarningLevel="1" />
+      <Setting Name="AutoCompleteForm" Value="no" WarningLevel="1" />
+      <Setting Name="DefaultBrowser" Value="IEXPLORE.EXE" WarningLevel="1" />
+      <Setting Name="PopupBlocker" Value="yes" WarningLevel="1" />
+      <Setting Name="TabbedBrowsing" WarningLevel="2" />
+      <Setting Name="InternetZoneSecurity" Value="66816" WarningLevel="2" />
+      <Setting Name="IntranetZoneSecurity" Value="69632" WarningLevel="2" />
+      <Setting Name="TrustedZoneSecurity" Value="70912" WarningLevel="2" />
+      <Setting Name="RestrictedZoneSecurity" Value="73728" WarningLevel="2" />
+      <Setting Name="PhishingFilter" Value="2" WarningLevel="1" />
+      <Setting Name="EnhancedSecurityConfiguration" WarningLevel="1" />
+    </Group>
+    <Group Name="OS">
+      <Setting Name="Name" Value="Microsoft Windows 10 Enterprise" WarningLevel="2" />
+      <Setting Name="Version" Value="Microsoft Windows NT 10.0.17763.0" WarningLevel="2" />
+      <Setting Name="IsUserAdmin" Value="False" WarningLevel="2" />
+      <Setting Name="Is64BitOperatingSystem" Value="True" WarningLevel="2" />
+      <Setting Name="IsTerminalServerSession" Value="False" WarningLevel="2" />
+      <Setting Name="OSLanguage" Value="1033" WarningLevel="1" />
+      <Setting Name="UserLocale" Value="1033" WarningLevel="1" />
+      <Setting Name="DragFullWindows" Value="True" WarningLevel="2" />
+      <Setting Name="ScreenResolutionWidth" Value="1920" WarningLevel="2" />
+      <Setting Name="ScreenResolutionHeight" Value="1080" WarningLevel="2" />
+      <Setting Name="SystemDPIX" Value="96" WarningLevel="2" />
+      <Setting Name="SystemDPIY" Value="96" WarningLevel="2" />
+      <Setting Name="Aero" Value="1" WarningLevel="1" />
+      <Setting Name="UACEnabled" Value="1" WarningLevel="2" />
+      <Setting Name="UACPromptEnabled" Value="5" WarningLevel="1" />
+    </Group>
+    <Group Name="TechnologyManagers" />
+  </Configuration>
+  <InitializeActions />
+  <ExecuteActions>
+    <MouseAction UIObjectName="UIMap.UIItemWindow.UIItemTitleBar">
+      <ParameterName />
+      <ModifierKeys>None</ModifierKeys>
+      <IsGlobalHotkey>false</IsGlobalHotkey>
+      <Location X="1006" Y="15" />
+      <WheelDirection>0</WheelDirection>
+      <ActionType>Click</ActionType>
+      <MouseButton>Left</MouseButton>
+    </MouseAction>
+    <SetStateAction UIObjectName="UIMap.UIWpfWindow.UIMenuToggleButtonToggleButton">
+      <ParameterName />
+      <State>Pressed</State>
+    </SetStateAction>
+    <ErrorAction>
+      <ContinueOnError>True</ContinueOnError>
+      <ParameterName />
+      <Message>Last action on list item was not recorded because the control does not have any good identification property.</Message>
+    </ErrorAction>
+    <SetStateAction UIObjectName="UIMap.UIWpfWindow.UIMessageTypeSelectonlGroup.UIListitemsList.UIRadiometerLiveConnecListItem.UIQCResultCheckBox">
+      <ParameterName />
+      <State>Checked</State>
+    </SetStateAction>
+    <MouseAction UIObjectName="UIMap.UIWpfWindow.UIItemCustom.UISimulationActionsGroup.UISendButton">
+      <ParameterName />
+      <ModifierKeys>None</ModifierKeys>
+      <IsGlobalHotkey>false</IsGlobalHotkey>
+      <Location X="30" Y="13" />
+      <WheelDirection>0</WheelDirection>
+      <ActionType>Click</ActionType>
+      <MouseButton>Left</MouseButton>
+    </MouseAction>
+    <MouseAction UIObjectName="UIMap.UIWpfWindow.UIItemCustom.UISimulationActionsGroup.UICheckConnectionButton">
+      <ParameterName />
+      <ModifierKeys>None</ModifierKeys>
+      <IsGlobalHotkey>false</IsGlobalHotkey>
+      <Location X="79" Y="19" />
+      <WheelDirection>0</WheelDirection>
+      <ActionType>Click</ActionType>
+      <MouseButton>Left</MouseButton>
+    </MouseAction>
+    <MouseAction UIObjectName="UIMap.UIWpfWindow.UIItemCustom.UISimulationActionsGroup.UISendButton">
+      <ParameterName />
+      <ModifierKeys>None</ModifierKeys>
+      <IsGlobalHotkey>false</IsGlobalHotkey>
+      <Location X="52" Y="11" />
+      <WheelDirection>0</WheelDirection>
+      <ActionType>Click</ActionType>
+      <MouseButton>Left</MouseButton>
+    </MouseAction>
+    <MouseAction UIObjectName="UIMap.UIWpfWindow.UIItemCustom.UISimulationActionsGroup.UISendButton">
+      <ParameterName />
+      <ModifierKeys>None</ModifierKeys>
+      <IsGlobalHotkey>false</IsGlobalHotkey>
+      <Location X="52" Y="11" />
+      <WheelDirection>0</WheelDirection>
+      <ActionType>Click</ActionType>
+      <MouseButton>Left</MouseButton>
+    </MouseAction>
+    <MouseAction UIObjectName="UIMap.UIWpfWindow.UIItemCustom.UISimulationActionsGroup.UISendButton">
+      <ParameterName />
+      <ModifierKeys>None</ModifierKeys>
+      <IsGlobalHotkey>false</IsGlobalHotkey>
+      <Location X="52" Y="11" />
+      <WheelDirection>0</WheelDirection>
+      <ActionType>Click</ActionType>
+      <MouseButton>Left</MouseButton>
+    </MouseAction>
+    <MouseAction UIObjectName="UIMap.UIWpfWindow.UIItemCustom.UISimulationActionsGroup.UISendButton">
+      <ParameterName />
+      <ModifierKeys>None</ModifierKeys>
+      <IsGlobalHotkey>false</IsGlobalHotkey>
+      <Location X="52" Y="11" />
+      <WheelDirection>0</WheelDirection>
+      <ActionType>Click</ActionType>
+      <MouseButton>Left</MouseButton>
+    </MouseAction>
+    <TestStepMarkerAction Comment="" MarkerInformation="DPSTest">
+      <ParameterName />
+      <StepId>-1</StepId>
+      <Direction>Start</Direction>
+      <Outcome />
+      <Disabled>false</Disabled>
+      <WorkItemId>0</WorkItemId>
+      <MarkerRegionType>Action</MarkerRegionType>
+    </TestStepMarkerAction>
+    <ErrorAction>
+      <ContinueOnError>True</ContinueOnError>
+      <ParameterName />
+      <Message>To test Windows Store apps, use the Coded UI Test project template for Windows Store apps under the Windows Store node.</Message>
+    </ErrorAction>
+    <ErrorAction>
+      <ContinueOnError>True</ContinueOnError>
+      <ParameterName />
+      <Message>To test Windows Store apps, use the Coded UI Test project template for Windows Store apps under the Windows Store node.</Message>
+    </ErrorAction>
+    <ErrorAction>
+      <ContinueOnError>True</ContinueOnError>
+      <ParameterName />
+      <Message>To test Windows Store apps, use the Coded UI Test project template for Windows Store apps under the Windows Store node.</Message>
+    </ErrorAction>
+    <ErrorAction>
+      <ContinueOnError>True</ContinueOnError>
+      <ParameterName />
+      <Message>To test Windows Store apps, use the Coded UI Test project template for Windows Store apps under the Windows Store node.</Message>
+    </ErrorAction>
+    <ErrorAction>
+      <ContinueOnError>True</ContinueOnError>
+      <ParameterName />
+      <Message>To test Windows Store apps, use the Coded UI Test project template for Windows Store apps under the Windows Store node.</Message>
+    </ErrorAction>
+    <ErrorAction>
+      <ContinueOnError>True</ContinueOnError>
+      <ParameterName />
+      <Message>To test Windows Store apps, use the Coded UI Test project template for Windows Store apps under the Windows Store node.</Message>
+    </ErrorAction>
+    <ErrorAction>
+      <ContinueOnError>True</ContinueOnError>
+      <ParameterName />
+      <Message>To test Windows Store apps, use the Coded UI Test project template for Windows Store apps under the Windows Store node.</Message>
+    </ErrorAction>
+    <ErrorAction>
+      <ContinueOnError>True</ContinueOnError>
+      <ParameterName />
+      <Message>To test Windows Store apps, use the Coded UI Test project template for Windows Store apps under the Windows Store node.</Message>
+    </ErrorAction>
+    <ErrorAction>
+      <ContinueOnError>True</ContinueOnError>
+      <ParameterName />
+      <Message>To test Windows Store apps, use the Coded UI Test project template for Windows Store apps under the Windows Store node.</Message>
+    </ErrorAction>
+    <ErrorAction>
+      <ContinueOnError>True</ContinueOnError>
+      <ParameterName />
+      <Message>To test Windows Store apps, use the Coded UI Test project template for Windows Store apps under the Windows Store node.</Message>
+    </ErrorAction>
+    <ErrorAction>
+      <ContinueOnError>True</ContinueOnError>
+      <ParameterName />
+      <Message>To test Windows Store apps, use the Coded UI Test project template for Windows Store apps under the Windows Store node.</Message>
+    </ErrorAction>
+    <ErrorAction>
+      <ContinueOnError>True</ContinueOnError>
+      <ParameterName />
+      <Message>To test Windows Store apps, use the Coded UI Test project template for Windows Store apps under the Windows Store node.</Message>
+    </ErrorAction>
+    <TestStepMarkerAction Comment="" MarkerInformation="Cal1">
+      <ParameterName />
+      <StepId>-1</StepId>
+      <Direction>Start</Direction>
+      <Outcome />
+      <Disabled>false</Disabled>
+      <WorkItemId>0</WorkItemId>
+      <MarkerRegionType>Action</MarkerRegionType>
+    </TestStepMarkerAction>
+  </ExecuteActions>
+  <CleanupActions />
+  <OnErrorActions />
+  <Maps>
+    <UIMap Id="UIMap">
+      <TopLevelWindows>
+        <TopLevelWindow ControlType="Window" Id="UIItemWindow" FriendlyName="" SpecialControlType="None" SessionId="65552">
+          <TechnologyName>MSAA</TechnologyName>
+          <WindowTitles />
+          <SearchConfigurations>
+            <SearchConfiguration>VisibleOnly</SearchConfiguration>
+          </SearchConfigurations>
+          <AndCondition Id="SearchCondition">
+            <PropertyCondition Name="AccessibleName">Desktop 1</PropertyCondition>
+            <PropertyCondition Name="ClassName">#32769</PropertyCondition>
+            <PropertyCondition Name="ControlType">Window</PropertyCondition>
+          </AndCondition>
+          <SupportLevel>0</SupportLevel>
+          <Descendants>
+            <UIObject ControlType="TitleBar" Id="UIItemTitleBar" FriendlyName="" SpecialControlType="None">
+              <TechnologyName>MSAA</TechnologyName>
+              <WindowTitles />
+              <SearchConfigurations>
+                <SearchConfiguration>VisibleOnly</SearchConfiguration>
+              </SearchConfigurations>
+              <AndCondition Id="SearchCondition">
+                <PropertyCondition Name="ControlType">TitleBar</PropertyCondition>
+              </AndCondition>
+              <SupportLevel>0</SupportLevel>
+              <Descendants />
+            </UIObject>
+          </Descendants>
+        </TopLevelWindow>
+        <TopLevelWindow ControlType="Window" Id="UIWpfWindow" FriendlyName="Wpf" SpecialControlType="None" SessionId="11668532">
+          <TechnologyName>UIA</TechnologyName>
+          <WindowTitles />
+          <AndCondition>
+            <PropertyCondition Name="ControlType">Window</PropertyCondition>
+            <PropertyCondition Name="FrameworkId">WPF</PropertyCondition>
+            <PropertyCondition Name="ClassName" Operator="Contains">HwndWrapper</PropertyCondition>
+          </AndCondition>
+          <SupportLevel>0</SupportLevel>
+          <Descendants>
+            <UIObject ControlType="ToggleButton" Id="UIMenuToggleButtonToggleButton" FriendlyName="MenuToggleButton" SpecialControlType="None">
+              <TechnologyName>UIA</TechnologyName>
+              <WindowTitles />
+              <AndCondition>
+                <PropertyCondition Name="FrameworkId">WPF</PropertyCondition>
+                <PropertyCondition Name="ControlType">ToggleButton</PropertyCondition>
+                <PropertyCondition Name="AutomationId">MenuToggleButton</PropertyCondition>
+              </AndCondition>
+              <SupportLevel>0</SupportLevel>
+              <Descendants />
+            </UIObject>
+            <UIObject ControlType="Group" Id="UIMessageTypeSelectonlGroup" FriendlyName="Message Type (Select only one type if you testing ..." SpecialControlType="None">
+              <TechnologyName>UIA</TechnologyName>
+              <WindowTitles />
+              <AndCondition>
+                <PropertyCondition Name="FrameworkId">WPF</PropertyCondition>
+                <PropertyCondition Name="ControlType">Group</PropertyCondition>
+                <PropertyCondition Name="Name">Message Type (Select only one type if you testing single message)</PropertyCondition>
+              </AndCondition>
+              <SupportLevel>0</SupportLevel>
+              <Descendants>
+                <UIObject ControlType="List" Id="UIListitemsList" FriendlyName="Listitems" SpecialControlType="None">
+                  <TechnologyName>UIA</TechnologyName>
+                  <WindowTitles />
+                  <AndCondition>
+                    <PropertyCondition Name="FrameworkId">WPF</PropertyCondition>
+                    <PropertyCondition Name="ControlType">List</PropertyCondition>
+                    <PropertyCondition Name="AutomationId">Listitems</PropertyCondition>
+                  </AndCondition>
+                  <SupportLevel>0</SupportLevel>
+                  <Descendants>
+                    <UIObject ControlType="ListItem" Id="UIRadiometerLiveConnecListItem" FriendlyName="Radiometer.LiveConnect.DataSimulator.Devices.ABL80..." SpecialControlType="None">
+                      <TechnologyName>UIA</TechnologyName>
+                      <WindowTitles />
+                      <AndCondition>
+                        <PropertyCondition Name="FrameworkId">WPF</PropertyCondition>
+                        <PropertyCondition Name="ControlType">ListItem</PropertyCondition>
+                        <PropertyCondition Name="Name">Radiometer.LiveConnect.DataSimulator.Devices.ABL800.MessageTypeListItem</PropertyCondition>
+                        <PropertyCondition Name="Instance">9</PropertyCondition>
+                      </AndCondition>
+                      <SupportLevel>0</SupportLevel>
+                      <Descendants>
+                        <UIObject ControlType="CheckBox" Id="UIQCResultCheckBox" FriendlyName="QC Result" SpecialControlType="None">
+                          <TechnologyName>UIA</TechnologyName>
+                          <WindowTitles />
+                          <AndCondition>
+                            <PropertyCondition Name="FrameworkId">WPF</PropertyCondition>
+                            <PropertyCondition Name="ControlType">CheckBox</PropertyCondition>
+                            <PropertyCondition Name="Name">QC Result</PropertyCondition>
+                          </AndCondition>
+                          <SupportLevel>0</SupportLevel>
+                          <Descendants />
+                        </UIObject>
+                      </Descendants>
+                    </UIObject>
+                  </Descendants>
+                </UIObject>
+              </Descendants>
+            </UIObject>
+            <UIObject ControlType="Custom" Id="UIItemCustom" FriendlyName="" SpecialControlType="None">
+              <TechnologyName>UIA</TechnologyName>
+              <WindowTitles />
+              <AndCondition>
+                <PropertyCondition Name="FrameworkId">WPF</PropertyCondition>
+                <PropertyCondition Name="ControlType">Custom</PropertyCondition>
+                <PropertyCondition Name="ClassName">Uia.ABL800</PropertyCondition>
+              </AndCondition>
+              <SupportLevel>0</SupportLevel>
+              <Descendants>
+                <UIObject ControlType="Group" Id="UISimulationActionsGroup" FriendlyName="Simulation Actions" SpecialControlType="None">
+                  <TechnologyName>UIA</TechnologyName>
+                  <WindowTitles />
+                  <AndCondition>
+                    <PropertyCondition Name="FrameworkId">WPF</PropertyCondition>
+                    <PropertyCondition Name="ControlType">Group</PropertyCondition>
+                    <PropertyCondition Name="Name">Simulation Actions</PropertyCondition>
+                  </AndCondition>
+                  <SupportLevel>0</SupportLevel>
+                  <Descendants>
+                    <UIObject ControlType="Button" Id="UICheckConnectionButton" FriendlyName="Check Connection" SpecialControlType="None">
+                      <TechnologyName>UIA</TechnologyName>
+                      <WindowTitles />
+                      <AndCondition>
+                        <PropertyCondition Name="FrameworkId">WPF</PropertyCondition>
+                        <PropertyCondition Name="ControlType">Button</PropertyCondition>
+                        <PropertyCondition Name="Name">Check Connection</PropertyCondition>
+                      </AndCondition>
+                      <SupportLevel>0</SupportLevel>
+                      <Descendants />
+                    </UIObject>
+                    <UIObject ControlType="Button" Id="UISendButton" FriendlyName="Send" SpecialControlType="None">
+                      <TechnologyName>UIA</TechnologyName>
+                      <WindowTitles />
+                      <AndCondition>
+                        <PropertyCondition Name="FrameworkId">WPF</PropertyCondition>
+                        <PropertyCondition Name="ControlType">Button</PropertyCondition>
+                        <PropertyCondition Name="Name">Send</PropertyCondition>
+                      </AndCondition>
+                      <SupportLevel>0</SupportLevel>
+                      <Descendants />
+                    </UIObject>
+                    <UIObject ControlType="Button" Id="UIStartButton" FriendlyName="Start" SpecialControlType="None">
+                      <TechnologyName>UIA</TechnologyName>
+                      <WindowTitles />
+                      <AndCondition>
+                        <PropertyCondition Name="FrameworkId">WPF</PropertyCondition>
+                        <PropertyCondition Name="ControlType">Button</PropertyCondition>
+                        <PropertyCondition Name="Name">Start</PropertyCondition>
+                      </AndCondition>
+                      <SupportLevel>0</SupportLevel>
+                      <Descendants />
+                    </UIObject>
+                    <UIObject ControlType="Button" Id="UIStopButton" FriendlyName="Stop" SpecialControlType="None">
+                      <TechnologyName>UIA</TechnologyName>
+                      <WindowTitles />
+                      <AndCondition>
+                        <PropertyCondition Name="FrameworkId">WPF</PropertyCondition>
+                        <PropertyCondition Name="ControlType">Button</PropertyCondition>
+                        <PropertyCondition Name="Name">Stop</PropertyCondition>
+                      </AndCondition>
+                      <SupportLevel>0</SupportLevel>
+                      <Descendants />
+                    </UIObject>
+                  </Descendants>
+                </UIObject>
+                <UIObject ControlType="Group" Id="UIGatewayRequestGroup" FriendlyName="Gateway Request" SpecialControlType="None">
+                  <TechnologyName>UIA</TechnologyName>
+                  <WindowTitles />
+                  <AndCondition>
+                    <PropertyCondition Name="FrameworkId">WPF</PropertyCondition>
+                    <PropertyCondition Name="ControlType">Group</PropertyCondition>
+                    <PropertyCondition Name="Name">Gateway Request</PropertyCondition>
+                  </AndCondition>
+                  <SupportLevel>0</SupportLevel>
+                  <Descendants>
+                    <UIObject ControlType="Button" Id="UISendConfigurationButton" FriendlyName="Send Configuration" SpecialControlType="None">
+                      <TechnologyName>UIA</TechnologyName>
+                      <WindowTitles />
+                      <AndCondition>
+                        <PropertyCondition Name="FrameworkId">WPF</PropertyCondition>
+                        <PropertyCondition Name="ControlType">Button</PropertyCondition>
+                        <PropertyCondition Name="Name">Send Configuration</PropertyCondition>
+                      </AndCondition>
+                      <SupportLevel>0</SupportLevel>
+                      <Descendants />
+                    </UIObject>
+                  </Descendants>
+                </UIObject>
+              </Descendants>
+            </UIObject>
+            <UIObject ControlType="List" Id="UISupportedDeviceListBList" FriendlyName="SupportedDeviceListBox" SpecialControlType="None">
+              <TechnologyName>UIA</TechnologyName>
+              <WindowTitles />
+              <AndCondition>
+                <PropertyCondition Name="FrameworkId">WPF</PropertyCondition>
+                <PropertyCondition Name="ControlType">List</PropertyCondition>
+                <PropertyCondition Name="AutomationId">SupportedDeviceListBox</PropertyCondition>
+              </AndCondition>
+              <SupportLevel>0</SupportLevel>
+              <Descendants>
+                <UIObject ControlType="ListItem" Id="UIItemListItem" FriendlyName="" SpecialControlType="None">
+                  <TechnologyName>UIA</TechnologyName>
+                  <WindowTitles />
+                  <AndCondition>
+                    <PropertyCondition Name="FrameworkId">WPF</PropertyCondition>
+                    <PropertyCondition Name="ControlType">ListItem</PropertyCondition>
+                    <PropertyCondition Name="Instance">2</PropertyCondition>
+                  </AndCondition>
+                  <SupportLevel>0</SupportLevel>
+                  <Descendants />
+                </UIObject>
+              </Descendants>
+            </UIObject>
+          </Descendants>
+        </TopLevelWindow>
+      </TopLevelWindows>
+    </UIMap>
+  </Maps>
+  <ValueMap>
+    <ParameterList />
+  </ValueMap>
+</UITest>

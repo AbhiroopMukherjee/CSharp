@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<UITest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="" Id="c075108d-9a65-4852-bf5e-250b7c53d08f" AssemblyVersion="16.0.28315.86" Version="1.0" xmlns="http://schemas.microsoft.com/VisualStudio/TeamTest/UITest/2010">
+  <Configuration>
+    <Group Name="IE">
+      <Setting Name="Version" Value="9.11.17763.0" WarningLevel="1" />
+      <Setting Name="InformationBar" WarningLevel="1" />
+      <Setting Name="AutoCompletePassword" WarningLevel="1" />
+      <Setting Name="AutoCompleteForm" Value="no" WarningLevel="1" />
+      <Setting Name="DefaultBrowser" Value="IEXPLORE.EXE" WarningLevel="1" />
+      <Setting Name="PopupBlocker" Value="yes" WarningLevel="1" />
+      <Setting Name="TabbedBrowsing" WarningLevel="2" />
+      <Setting Name="InternetZoneSecurity" Value="66816" WarningLevel="2" />
+      <Setting Name="IntranetZoneSecurity" Value="69632" WarningLevel="2" />
+      <Setting Name="TrustedZoneSecurity" Value="70912" WarningLevel="2" />
+      <Setting Name="RestrictedZoneSecurity" Value="73728" WarningLevel="2" />
+      <Setting Name="PhishingFilter" Value="2" WarningLevel="1" />
+      <Setting Name="EnhancedSecurityConfiguration" WarningLevel="1" />
+    </Group>
+    <Group Name="OS">
+      <Setting Name="Name" Value="Microsoft Windows 10 Enterprise" WarningLevel="2" />
+      <Setting Name="Version" Value="Microsoft Windows NT 10.0.17763.0" WarningLevel="2" />
+      <Setting Name="IsUserAdmin" Value="False" WarningLevel="2" />
+      <Setting Name="Is64BitOperatingSystem" Value="True" WarningLevel="2" />
+      <Setting Name="IsTerminalServerSession" Value="False" WarningLevel="2" />
+      <Setting Name="OSLanguage" Value="1033" WarningLevel="1" />
+      <Setting Name="UserLocale" Value="1033" WarningLevel="1" />
+      <Setting Name="DragFullWindows" Value="True" WarningLevel="2" />
+      <Setting Name="ScreenResolutionWidth" Value="1920" WarningLevel="2" />
+      <Setting Name="ScreenResolutionHeight" Value="1080" WarningLevel="2" />
+      <Setting Name="SystemDPIX" Value="96" WarningLevel="2" />
+      <Setting Name="SystemDPIY" Value="96" WarningLevel="2" />
+      <Setting Name="Aero" Value="1" WarningLevel="1" />
+      <Setting Name="UACEnabled" Value="1" WarningLevel="2" />
+      <Setting Name="UACPromptEnabled" Value="5" WarningLevel="1" />
+    </Group>
+    <Group Name="TechnologyManagers">
+      <Setting Name="Web" WarningLevel="1" />
+      <Setting Name="Web" WarningLevel="1" />
+      <Setting Name="Web" WarningLevel="1" />
+      <Setting Name="UIA" WarningLevel="1" />
+    </Group>
+  </Configuration>
+  <InitializeActions />
+  <ExecuteActions>
+    <ErrorAction>
+      <ContinueOnError>True</ContinueOnError>
+      <ParameterName />
+      <Message>To test Windows Store apps, use the Coded UI Test project template for Windows Store apps under the Windows Store node.</Message>
+    </ErrorAction>
+    <ErrorAction>
+      <ContinueOnError>True</ContinueOnError>
+      <ParameterName />
+      <Message>To test Windows Store apps, use the Coded UI Test project template for Windows Store apps under the Windows Store node.</Message>
+    </ErrorAction>
+    <SendKeysAction UIObjectName="UIMap.UICUsersABHMUDesktopRaWindow.UICUsersABHMUDesktopRaClient.UINClient">
+      <ParameterName />
+      <ModifierKeys>Control</ModifierKeys>
+      <IsGlobalHotkey>false</IsGlobalHotkey>
+      <Text Encoded="false">n</Text>
+    </SendKeysAction>
+    <SendKeysAction UIObjectName="UIMap.UICUsersABHMUDesktopRaWindow.UICUsersABHMUDesktopRaClient.UINClient">
+      <ParameterName />
+      <ModifierKeys>Control</ModifierKeys>
+      <IsGlobalHotkey>false</IsGlobalHotkey>
+      <Text Encoded="false">v</Text>
+    </SendKeysAction>
+    <TestStepMarkerAction Comment="" MarkerInformation="RecordedMethod1">
+      <ParameterName />
+      <StepId>-1</StepId>
+      <Direction>Start</Direction>
+      <Outcome />
+      <Disabled>false</Disabled>
+      <WorkItemId>0</WorkItemId>
+      <MarkerRegionType>Action</MarkerRegionType>
+    </TestStepMarkerAction>
+  </ExecuteActions>
+  <CleanupActions />
+  <OnErrorActions />
+  <Maps>
+    <UIMap Id="UIMap">
+      <TopLevelWindows>
+        <TopLevelWindow ControlType="Window" Id="UICUsersABHMUDesktopRaWindow" FriendlyName="C:\Users\ABHMU\Desktop\Radiometer docs\Cybersecuri..." SpecialControlType="None" SessionId="198930">
+          <TechnologyName>MSAA</TechnologyName>
+          <WindowTitles>
+            <WindowTitle>C:\Users\ABHMU\Desktop\Radiometer docs\Cybersecurity\Patch 6 release\Patch 6 notes.txt - Notepad++</WindowTitle>
+            <WindowTitle>new 1 - Notepad++</WindowTitle>
+          </WindowTitles>
+          <SearchConfigurations>
+            <SearchConfiguration>VisibleOnly</SearchConfiguration>
+          </SearchConfigurations>
+          <AndCondition Id="SearchCondition">
+            <PropertyCondition Name="Name">C:\Users\ABHMU\Desktop\Radiometer docs\Cybersecurity\Patch 6 release\Patch 6 notes.txt - Notepad++</PropertyCondition>
+            <PropertyCondition Name="ClassName">Notepad++</PropertyCondition>
+            <PropertyCondition Name="ControlType">Window</PropertyCondition>
+          </AndCondition>
+          <SupportLevel>0</SupportLevel>
+          <Descendants>
+            <UIObject ControlType="Client" Id="UICUsersABHMUDesktopRaClient" FriendlyName="C:\Users\ABHMU\Desktop\Radiometer docs\Cybersecuri..." SpecialControlType="None">
+              <TechnologyName>MSAA</TechnologyName>
+              <WindowTitles>
+                <WindowTitle>C:\Users\ABHMU\Desktop\Radiometer docs\Cybersecurity\Patch 6 release\Patch 6 notes.txt - Notepad++</WindowTitle>
+                <WindowTitle>new 1 - Notepad++</WindowTitle>
+              </WindowTitles>
+              <SearchConfigurations>
+                <SearchConfiguration>VisibleOnly</SearchConfiguration>
+              </SearchConfigurations>
+              <AndCondition Id="SearchCondition">
+                <PropertyCondition Name="Name">C:\Users\ABHMU\Desktop\Radiometer docs\Cybersecurity\Patch 6 release\Patch 6 notes.txt - Notepad++</PropertyCondition>
+                <PropertyCondition Name="ControlType">Client</PropertyCondition>
+              </AndCondition>
+              <SupportLevel>0</SupportLevel>
+              <Descendants>
+                <UIObject ControlType="Client" Id="UINClient" FriendlyName="N" SpecialControlType="None">
+                  <TechnologyName>MSAA</TechnologyName>
+                  <WindowTitles>
+                    <WindowTitle>C:\Users\ABHMU\Desktop\Radiometer docs\Cybersecurity\Patch 6 release\Patch 6 notes.txt - Notepad++</WindowTitle>
+                    <WindowTitle>new 1 - Notepad++</WindowTitle>
+                  </WindowTitles>
+                  <SearchConfigurations>
+                    <SearchConfiguration>VisibleOnly</SearchConfiguration>
+                  </SearchConfigurations>
+                  <AndCondition Id="SearchCondition">
+                    <PropertyCondition Name="Name">DC-073329  1  Radiometer Patch Release - Level 6 - Project Plan Document  ABL800 SW V6.18 MR1, Hotfix    Project Manager: LARIVProject RD Team: ABHMU, VIJKUIndependent Reviewer: OJHQA: RAJSIRA: UMEDRTPS&amp;S: CKNAQT R&amp;D: NISKA5-20-2019----------------------------Started AQT testingDeviations--- 1. No result BNP temperature sensor failure.2. Not able to do RMDED LQC because internal barcode reader is not working. Going for non-rmed LQC.steps for AQT---1.production ---- Pass-9781556156618 --- Fake calibrate any one lot number-- should match the catridge lot number2.replace catridge3.on the barcode page --- if 4th digit is 1, its cal catridge. If 0, its test catridge.d-pisa-temp-resetaud-pisa-pisa.db DC-073433  1  Radiometer Patch Release - Level 6 - Software Specification   Section 5 approved Requested Part number   5-21-2019---------------------------- Rajan:- Can write deviation for AQT protocol.  Received Part number - 933-740  5/27/19--------------------- DC-073490 / 1 Radiometer Patch Release - Level 6 - Regression Test Report  !Patch6-Sec6 &amp; Ver report Approve   5/28/19--------------------- MD5 generation:- Get-FileHash -Path .\RadiometerPatchRelease-Level-003.zip -Algorithm MD5  --------------------------------------------------------------------------  Hi All,We have accomplished the verification phase and have signed off till section 8 of the plan document .Currently we are on track as per the schedule planned.Requesting you to kindly have a look on the advancement of the documents post the Go\NoGo meeting. Following is the list of the documents:-1.	DC-073329 / 4 Radiometer Patch Release - Level 6 - Project Plan Document2.	DC-073490 / 2 Radiometer Patch Release - Level 6 - Regression Test Report3.	DC-073433/2  Radiometer Patch Release - Level 6 - Software Specification  4.	DC-073511  1  Radiometer Patch Release - Level 6 - Hotfix release decision meeting minutes  (Draft)5.  DC-073405/1   Radiometer Patch Release - Level 6 - Go\NoGo Mom Please revert back if you find any issue, as early as possible. This will enable us to be more prepared for the upcoming Release decision meeting, scheduled on 3rd June.Requesting all to kindly review and verify the following:-1. DC-073329/9 Radiometer Patch Release - Level 6 - Project Release Report2.  Appendix 1_1(Deliverables List) attached to the above release report.3. DC-073511/1  Radiometer Patch Release - Level 6 - Hotfix release decision meeting minutes</PropertyCondition>
+                    <PropertyCondition Name="ControlType">Client</PropertyCondition>
+                  </AndCondition>
+                  <SupportLevel>0</SupportLevel>
+                  <Descendants />
+                </UIObject>
+              </Descendants>
+            </UIObject>
+          </Descendants>
+        </TopLevelWindow>
+      </TopLevelWindows>
+    </UIMap>
+  </Maps>
+  <ValueMap>
+    <ParameterList />
+  </ValueMap>
+</UITest>

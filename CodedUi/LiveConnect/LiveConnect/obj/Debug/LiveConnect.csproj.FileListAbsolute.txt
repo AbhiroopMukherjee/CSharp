@@ -1,0 +1,6 @@
+C:\Users\ABHMU\Desktop\My docs\studies\C#\CodedUi\LiveConnect\LiveConnect\bin\Debug\LiveConnect.dll
+C:\Users\ABHMU\Desktop\My docs\studies\C#\CodedUi\LiveConnect\LiveConnect\bin\Debug\LiveConnect.pdb
+C:\Users\ABHMU\Desktop\My docs\studies\C#\CodedUi\LiveConnect\LiveConnect\obj\Debug\LiveConnect.csprojAssemblyReference.cache
+C:\Users\ABHMU\Desktop\My docs\studies\C#\CodedUi\LiveConnect\LiveConnect\obj\Debug\LiveConnect.csproj.CoreCompileInputs.cache
+C:\Users\ABHMU\Desktop\My docs\studies\C#\CodedUi\LiveConnect\LiveConnect\obj\Debug\LiveConnect.dll
+C:\Users\ABHMU\Desktop\My docs\studies\C#\CodedUi\LiveConnect\LiveConnect\obj\Debug\LiveConnect.pdb
