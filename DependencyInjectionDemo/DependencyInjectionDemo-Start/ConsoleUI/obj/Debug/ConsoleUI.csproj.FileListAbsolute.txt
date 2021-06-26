@@ -1,0 +1,26 @@
+C:\Users\ABHMU\Desktop\My docs\studies\C#\DependencyInjectionDemo\DependencyInjectionDemo-Start\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\ABHMU\Desktop\My docs\studies\C#\DependencyInjectionDemo\DependencyInjectionDemo-Start\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\ABHMU\Desktop\My docs\studies\C#\DependencyInjectionDemo\DependencyInjectionDemo-Start\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\ABHMU\Desktop\My docs\studies\C#\DependencyInjectionDemo\DependencyInjectionDemo-Start\ConsoleUI\bin\Debug\DemoLibrary.dll
+C:\Users\ABHMU\Desktop\My docs\studies\C#\DependencyInjectionDemo\DependencyInjectionDemo-Start\ConsoleUI\bin\Debug\DemoLibrary.pdb
+C:\Users\ABHMU\Desktop\My docs\studies\C#\DependencyInjectionDemo\DependencyInjectionDemo-Start\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\ABHMU\Desktop\My docs\studies\C#\DependencyInjectionDemo\DependencyInjectionDemo-Start\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\ABHMU\Desktop\My docs\studies\C#\DependencyInjectionDemo\DependencyInjectionDemo-Start\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+C:\Users\ABHMU\Desktop\My docs\studies\C#\DependencyInjectionDemo\DependencyInjectionDemo-Start\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\ABHMU\Desktop\My docs\studies\C#\DependencyInjectionDemo\DependencyInjectionDemo-Start\ConsoleUI\obj\Debug\ConsoleUI.pdb
+C:\Users\ABHMU\Desktop\My docs\studies\C#\DependencyInjectionDemo\DependencyInjectionDemo-Start\ConsoleUI\bin\Debug\Autofac.dll
+C:\Users\ABHMU\Desktop\My docs\studies\C#\DependencyInjectionDemo\DependencyInjectionDemo-Start\ConsoleUI\bin\Debug\Autofac.pdb
+C:\Users\ABHMU\Desktop\My docs\studies\C#\DependencyInjectionDemo\DependencyInjectionDemo-Start\ConsoleUI\bin\Debug\Autofac.xml
+C:\Users\abhmu\OneDrive - Danaher\Desktop\MyFiles\Studies\C Sharp\DependencyInjectionDemo\DependencyInjectionDemo-Start\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\abhmu\OneDrive - Danaher\Desktop\MyFiles\Studies\C Sharp\DependencyInjectionDemo\DependencyInjectionDemo-Start\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\abhmu\OneDrive - Danaher\Desktop\MyFiles\Studies\C Sharp\DependencyInjectionDemo\DependencyInjectionDemo-Start\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\abhmu\OneDrive - Danaher\Desktop\MyFiles\Studies\C Sharp\DependencyInjectionDemo\DependencyInjectionDemo-Start\ConsoleUI\bin\Debug\Autofac.dll
+C:\Users\abhmu\OneDrive - Danaher\Desktop\MyFiles\Studies\C Sharp\DependencyInjectionDemo\DependencyInjectionDemo-Start\ConsoleUI\bin\Debug\DemoLibrary.dll
+C:\Users\abhmu\OneDrive - Danaher\Desktop\MyFiles\Studies\C Sharp\DependencyInjectionDemo\DependencyInjectionDemo-Start\ConsoleUI\bin\Debug\DemoLibrary.pdb
+C:\Users\abhmu\OneDrive - Danaher\Desktop\MyFiles\Studies\C Sharp\DependencyInjectionDemo\DependencyInjectionDemo-Start\ConsoleUI\bin\Debug\Autofac.pdb
+C:\Users\abhmu\OneDrive - Danaher\Desktop\MyFiles\Studies\C Sharp\DependencyInjectionDemo\DependencyInjectionDemo-Start\ConsoleUI\bin\Debug\Autofac.xml
+C:\Users\abhmu\OneDrive - Danaher\Desktop\MyFiles\Studies\C Sharp\DependencyInjectionDemo\DependencyInjectionDemo-Start\ConsoleUI\obj\Debug\ConsoleUI.csproj.AssemblyReference.cache
+C:\Users\abhmu\OneDrive - Danaher\Desktop\MyFiles\Studies\C Sharp\DependencyInjectionDemo\DependencyInjectionDemo-Start\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\abhmu\OneDrive - Danaher\Desktop\MyFiles\Studies\C Sharp\DependencyInjectionDemo\DependencyInjectionDemo-Start\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+C:\Users\abhmu\OneDrive - Danaher\Desktop\MyFiles\Studies\C Sharp\DependencyInjectionDemo\DependencyInjectionDemo-Start\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\abhmu\OneDrive - Danaher\Desktop\MyFiles\Studies\C Sharp\DependencyInjectionDemo\DependencyInjectionDemo-Start\ConsoleUI\obj\Debug\ConsoleUI.pdb
