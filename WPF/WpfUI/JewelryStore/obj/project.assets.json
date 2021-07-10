@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\abhmu\\OneDrive - Danaher\\Desktop\\MyFiles\\Studies\\C Sharp\\WPF\\WpfUI\\JewelryStore\\JewelryStore.csproj",
+      "projectUniqueName": "C:\\Users\\abhmu\\OneDrive - Danaher\\Desktop\\MyFiles\\Code Repository\\CSharp\\WPF\\WpfUI\\JewelryStore\\JewelryStore.csproj",
       "projectName": "JewelryStore",
-      "projectPath": "C:\\Users\\abhmu\\OneDrive - Danaher\\Desktop\\MyFiles\\Studies\\C Sharp\\WPF\\WpfUI\\JewelryStore\\JewelryStore.csproj",
+      "projectPath": "C:\\Users\\abhmu\\OneDrive - Danaher\\Desktop\\MyFiles\\Code Repository\\CSharp\\WPF\\WpfUI\\JewelryStore\\JewelryStore.csproj",
       "packagesPath": "C:\\Users\\abhmu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\abhmu\\OneDrive - Danaher\\Desktop\\MyFiles\\Studies\\C Sharp\\WPF\\WpfUI\\JewelryStore\\obj\\",
+      "outputPath": "C:\\Users\\abhmu\\OneDrive - Danaher\\Desktop\\MyFiles\\Code Repository\\CSharp\\WPF\\WpfUI\\JewelryStore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
