@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Users>
+  <User>
+    <UserName>Abhiroop</UserName>
+    <Password>1234</Password>
+    <UserType>Normal</UserType>
+  </User>
+  <User>
+    <UserName>Mukherjee</UserName>
+    <Password>5678</Password>
+    <UserType>Privileged</UserType>
+  </User>
+</Users>

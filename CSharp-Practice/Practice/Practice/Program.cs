@@ -71,16 +71,6 @@ namespace Example
 
             Console.WriteLine(GetEnumDescription(enumdemo.FunctionStarted));
 
-            //var apiKey = "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";
-            //var client = new SendGridClient(apiKey);
-            //var from = new EmailAddress("abhiroopenator@gmail.com", "Abhiroop");
-            //var subject = "Sending with SendGrid is Fun";
-            //var to = new EmailAddress("abhiroopmukherjee2@gmail.com", "Abhiroop");
-            //var plainTextContent = "and easy to do anywhere, even with C#";
-            //var htmlContent = "<strong>and easy to do anywhere, even with C#</strong>";
-            //var msg = MailHelper.CreateSingleEmail(from, to, subject, plainTextContent, htmlContent);
-            //var response = await client.SendEmailAsync(msg);
-            //Console.WriteLine(response.StatusCode);
         }
     }
 }
