@@ -26,3 +26,16 @@ C:\Users\abhmu\OneDrive - Danaher\Desktop\MyFiles\Practice\Practice\Practice\bin
 C:\Users\abhmu\OneDrive - Danaher\Desktop\MyFiles\Practice\Practice\Practice\bin\Debug\netcoreapp2.1\RichData24.txt
 C:\Users\abhmu\OneDrive - Danaher\Desktop\MyFiles\Practice\Practice\Practice\obj\Debug\netcoreapp2.1\Practice.csproj.CoreCompileInputs.cache
 C:\Users\abhmu\OneDrive - Danaher\Desktop\MyFiles\Practice\Practice\Practice\obj\Debug\netcoreapp2.1\Practice.csproj.AssemblyReference.cache
+C:\Repos\CSharp\CSharp-Practice\Practice\Practice\bin\Debug\netcoreapp2.1\Practice.deps.json
+C:\Repos\CSharp\CSharp-Practice\Practice\Practice\bin\Debug\netcoreapp2.1\Practice.runtimeconfig.json
+C:\Repos\CSharp\CSharp-Practice\Practice\Practice\bin\Debug\netcoreapp2.1\Practice.runtimeconfig.dev.json
+C:\Repos\CSharp\CSharp-Practice\Practice\Practice\bin\Debug\netcoreapp2.1\Practice.dll
+C:\Repos\CSharp\CSharp-Practice\Practice\Practice\bin\Debug\netcoreapp2.1\Practice.pdb
+C:\Repos\CSharp\CSharp-Practice\Practice\Practice\obj\Debug\netcoreapp2.1\Practice.csproj.AssemblyReference.cache
+C:\Repos\CSharp\CSharp-Practice\Practice\Practice\obj\Debug\netcoreapp2.1\Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\CSharp\CSharp-Practice\Practice\Practice\obj\Debug\netcoreapp2.1\Practice.AssemblyInfoInputs.cache
+C:\Repos\CSharp\CSharp-Practice\Practice\Practice\obj\Debug\netcoreapp2.1\Practice.AssemblyInfo.cs
+C:\Repos\CSharp\CSharp-Practice\Practice\Practice\obj\Debug\netcoreapp2.1\Practice.csproj.CoreCompileInputs.cache
+C:\Repos\CSharp\CSharp-Practice\Practice\Practice\obj\Debug\netcoreapp2.1\Practice.dll
+C:\Repos\CSharp\CSharp-Practice\Practice\Practice\obj\Debug\netcoreapp2.1\Practice.pdb
+C:\Repos\CSharp\CSharp-Practice\Practice\Practice\obj\Debug\netcoreapp2.1\Practice.genruntimeconfig.cache

@@ -46,7 +46,7 @@ namespace Practice2
 
             //FindTimeInAngle(13, 20);
 
-            foreach (var fib in fibo(5))
+            foreach (var fib in fibo(10))
             {
                 Console.WriteLine(fib);
             }
@@ -55,11 +55,26 @@ namespace Practice2
 
         private static IEnumerable<int> fibo(int length)
         {
-            var result =  new int[length-1];
+            var result =  new List<int>();
 
-           throw new NotImplementedException();
+            int first = 0;
+            int second = 1;
 
+            if (length >= 1)
+                result.Add(first);
+            if (length >= 2)
+                result.Add(second);
 
+            if (length > 2)
+            {
+                for(int i = 2; i < length; i++)
+                {
+                    var element = result[i - 1] + result[i - 2];
+                    result.Add(element);
+                }
+            }
+
+            return result;
         }
 
         public static void FindTimeInAngle(int hours, int mins)

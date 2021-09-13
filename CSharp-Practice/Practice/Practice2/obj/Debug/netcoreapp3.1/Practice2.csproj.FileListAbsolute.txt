@@ -24,3 +24,17 @@ C:\Users\abhmu\OneDrive - Danaher\Desktop\MyFiles\Code Repository\CSharp\CSharp-
 C:\Users\abhmu\OneDrive - Danaher\Desktop\MyFiles\Code Repository\CSharp\CSharp-Practice\Practice\Practice2\bin\Debug\netcoreapp3.1\Practice2.dll
 C:\Users\abhmu\OneDrive - Danaher\Desktop\MyFiles\Code Repository\CSharp\CSharp-Practice\Practice\Practice2\bin\Debug\netcoreapp3.1\Practice2.pdb
 C:\Users\abhmu\OneDrive - Danaher\Desktop\MyFiles\Code Repository\CSharp\CSharp-Practice\Practice\Practice2\obj\Debug\netcoreapp3.1\Practice2.genruntimeconfig.cache
+C:\Repos\CSharp\CSharp-Practice\Practice\Practice2\obj\Debug\netcoreapp3.1\Practice2.dll
+C:\Repos\CSharp\CSharp-Practice\Practice\Practice2\obj\Debug\netcoreapp3.1\Practice2.pdb
+C:\Repos\CSharp\CSharp-Practice\Practice\Practice2\bin\Debug\netcoreapp3.1\Practice2.exe
+C:\Repos\CSharp\CSharp-Practice\Practice\Practice2\bin\Debug\netcoreapp3.1\Practice2.deps.json
+C:\Repos\CSharp\CSharp-Practice\Practice\Practice2\bin\Debug\netcoreapp3.1\Practice2.runtimeconfig.json
+C:\Repos\CSharp\CSharp-Practice\Practice\Practice2\bin\Debug\netcoreapp3.1\Practice2.runtimeconfig.dev.json
+C:\Repos\CSharp\CSharp-Practice\Practice\Practice2\bin\Debug\netcoreapp3.1\Practice2.dll
+C:\Repos\CSharp\CSharp-Practice\Practice\Practice2\bin\Debug\netcoreapp3.1\Practice2.pdb
+C:\Repos\CSharp\CSharp-Practice\Practice\Practice2\obj\Debug\netcoreapp3.1\Practice2.csproj.AssemblyReference.cache
+C:\Repos\CSharp\CSharp-Practice\Practice\Practice2\obj\Debug\netcoreapp3.1\Practice2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\CSharp\CSharp-Practice\Practice\Practice2\obj\Debug\netcoreapp3.1\Practice2.AssemblyInfoInputs.cache
+C:\Repos\CSharp\CSharp-Practice\Practice\Practice2\obj\Debug\netcoreapp3.1\Practice2.AssemblyInfo.cs
+C:\Repos\CSharp\CSharp-Practice\Practice\Practice2\obj\Debug\netcoreapp3.1\Practice2.csproj.CoreCompileInputs.cache
+C:\Repos\CSharp\CSharp-Practice\Practice\Practice2\obj\Debug\netcoreapp3.1\Practice2.genruntimeconfig.cache

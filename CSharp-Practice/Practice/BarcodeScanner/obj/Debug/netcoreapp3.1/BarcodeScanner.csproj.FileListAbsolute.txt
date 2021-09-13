@@ -31,3 +31,37 @@ C:\Users\abhmu\OneDrive - Danaher\Desktop\MyFiles\Practice\Practice\BarcodeScann
 C:\Users\abhmu\OneDrive - Danaher\Desktop\MyFiles\Practice\Practice\BarcodeScanner\obj\Debug\netcoreapp3.1\BarcodeScanner.dll
 C:\Users\abhmu\OneDrive - Danaher\Desktop\MyFiles\Practice\Practice\BarcodeScanner\obj\Debug\netcoreapp3.1\BarcodeScanner.pdb
 C:\Users\abhmu\OneDrive - Danaher\Desktop\MyFiles\Practice\Practice\BarcodeScanner\obj\Debug\netcoreapp3.1\BarcodeScanner.genruntimeconfig.cache
+C:\Repos\CSharp\CSharp-Practice\Practice\BarcodeScanner\bin\Debug\netcoreapp3.1\BarcodeScanner.exe
+C:\Repos\CSharp\CSharp-Practice\Practice\BarcodeScanner\bin\Debug\netcoreapp3.1\BarcodeScanner.deps.json
+C:\Repos\CSharp\CSharp-Practice\Practice\BarcodeScanner\bin\Debug\netcoreapp3.1\BarcodeScanner.runtimeconfig.json
+C:\Repos\CSharp\CSharp-Practice\Practice\BarcodeScanner\bin\Debug\netcoreapp3.1\BarcodeScanner.runtimeconfig.dev.json
+C:\Repos\CSharp\CSharp-Practice\Practice\BarcodeScanner\bin\Debug\netcoreapp3.1\BarcodeScanner.dll
+C:\Repos\CSharp\CSharp-Practice\Practice\BarcodeScanner\bin\Debug\netcoreapp3.1\BarcodeScanner.pdb
+C:\Repos\CSharp\CSharp-Practice\Practice\BarcodeScanner\bin\Debug\netcoreapp3.1\AForge.dll
+C:\Repos\CSharp\CSharp-Practice\Practice\BarcodeScanner\bin\Debug\netcoreapp3.1\AForge.Video.dll
+C:\Repos\CSharp\CSharp-Practice\Practice\BarcodeScanner\bin\Debug\netcoreapp3.1\AForge.Video.DirectShow.dll
+C:\Repos\CSharp\CSharp-Practice\Practice\BarcodeScanner\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Repos\CSharp\CSharp-Practice\Practice\BarcodeScanner\bin\Debug\netcoreapp3.1\System.IO.Ports.dll
+C:\Repos\CSharp\CSharp-Practice\Practice\BarcodeScanner\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Repos\CSharp\CSharp-Practice\Practice\BarcodeScanner\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Repos\CSharp\CSharp-Practice\Practice\BarcodeScanner\bin\Debug\netcoreapp3.1\zxing.dll
+C:\Repos\CSharp\CSharp-Practice\Practice\BarcodeScanner\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Repos\CSharp\CSharp-Practice\Practice\BarcodeScanner\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Repos\CSharp\CSharp-Practice\Practice\BarcodeScanner\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Repos\CSharp\CSharp-Practice\Practice\BarcodeScanner\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Repos\CSharp\CSharp-Practice\Practice\BarcodeScanner\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Repos\CSharp\CSharp-Practice\Practice\BarcodeScanner\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+C:\Repos\CSharp\CSharp-Practice\Practice\BarcodeScanner\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+C:\Repos\CSharp\CSharp-Practice\Practice\BarcodeScanner\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+C:\Repos\CSharp\CSharp-Practice\Practice\BarcodeScanner\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Repos\CSharp\CSharp-Practice\Practice\BarcodeScanner\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Repos\CSharp\CSharp-Practice\Practice\BarcodeScanner\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Repos\CSharp\CSharp-Practice\Practice\BarcodeScanner\obj\Debug\netcoreapp3.1\BarcodeScanner.csproj.AssemblyReference.cache
+C:\Repos\CSharp\CSharp-Practice\Practice\BarcodeScanner\obj\Debug\netcoreapp3.1\BarcodeScanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\CSharp\CSharp-Practice\Practice\BarcodeScanner\obj\Debug\netcoreapp3.1\BarcodeScanner.AssemblyInfoInputs.cache
+C:\Repos\CSharp\CSharp-Practice\Practice\BarcodeScanner\obj\Debug\netcoreapp3.1\BarcodeScanner.AssemblyInfo.cs
+C:\Repos\CSharp\CSharp-Practice\Practice\BarcodeScanner\obj\Debug\netcoreapp3.1\BarcodeScanner.csproj.CoreCompileInputs.cache
+C:\Repos\CSharp\CSharp-Practice\Practice\BarcodeScanner\obj\Debug\netcoreapp3.1\BarcodeScanner.csproj.CopyComplete
+C:\Repos\CSharp\CSharp-Practice\Practice\BarcodeScanner\obj\Debug\netcoreapp3.1\BarcodeScanner.dll
+C:\Repos\CSharp\CSharp-Practice\Practice\BarcodeScanner\obj\Debug\netcoreapp3.1\BarcodeScanner.pdb
+C:\Repos\CSharp\CSharp-Practice\Practice\BarcodeScanner\obj\Debug\netcoreapp3.1\BarcodeScanner.genruntimeconfig.cache
